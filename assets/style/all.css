@@ -49,7 +49,7 @@ img{
 }
 
 .banner{
-    background-image: url(/assets/images/home-header.png);
+    background-image: url(../images/home-header.png)
     height: 787px;
     background-size: cover;
     display: flex;
